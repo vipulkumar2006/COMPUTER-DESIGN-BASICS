@@ -1,14 +1,12 @@
-
-
-
-
+COMPANY:CODETECH IT SOLUTIONS
+NAME:VIPUL KUMAR 
+INTERN ID:CT04DH2995.
+MENTOR:NEELA SANTHOSH .
+DURATION:4 WEEK.
+DOMAIN:C++ PROGRAMMING
 
 
 # COMPUTER-DESIGN-BASICS  
-
-
-
-
 
 This project is a simple implementation of a basic arithmetic expression compiler, developed in C++. It focuses on the foundational concepts of Compiler Design, specifically the front-end phases including lexical analysis, syntax analysis (parsing), and semantic evaluation. The goal of this project is to build an evaluator that can read, parse, and compute the result of arithmetic expressions like 2 + 3 * (4 - 1), while maintaining the correct order of operations and handling user input gracefully.
 
